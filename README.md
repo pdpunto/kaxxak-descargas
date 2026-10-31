@@ -5,13 +5,13 @@
 <p align="center"><b>Gestión para asociaciones, con cada gramo controlado por la báscula.</b><br>
 Socios, cuotas, stock y dispensario en un solo programa. Funciona sin internet y los datos se quedan en vuestro local.</p>
 
-<p align="center"><a href="https://github.com/pdpunto/kaxxak-descargas/releases/latest/download/KAXXAK-Setup.exe"><b>⬇ Descargar KAXXAK para Windows</b></a> · 30 días de prueba gratis</p>
+<p align="center"><a href="https://github.com/pdpunto/kaxxak-descargas/releases/latest"><b>⬇ Descargar la última versión para Windows</b></a> · 30 días de prueba gratis</p>
 
 ---
 
 ## Instalación
 
-1. Descarga **KAXXAK-Setup.exe** con el enlace de arriba.
+1. Pulsa el enlace de arriba y, en la página de la última versión, descarga **KAXXAK-Setup-…exe** (en «Assets»).
 2. Ábrelo. Windows puede avisar de que no reconoce el programa porque es nuevo: pulsa **Más información** y después **Ejecutar de todas formas**. Algunos antivirus lo analizan antes de dejarlo abrir; es normal.
 3. Sigue los pasos del instalador. Al terminar tendrás el icono de KAXXAK en el escritorio.
 4. Al abrirlo por primera vez, KAXXAK te guía para configurar vuestra asociación. Quien lo configura queda como responsable (owner) y socio nº 1.
